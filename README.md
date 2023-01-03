@@ -1,2 +1,2 @@
 # NotJustNotes
-work in progress...
+!/2 of the work done
